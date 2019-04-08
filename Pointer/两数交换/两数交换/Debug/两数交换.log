@@ -1,0 +1,5 @@
+﻿  源.cpp
+d:\文件\c语言作业\pointer\两数交换\两数交换\源.cpp(17): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“int *”
+d:\文件\c语言作业\pointer\两数交换\两数交换\源.cpp(17): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 2 拥有了类型“int *”
+  两数交换.vcxproj -> D:\文件\c语言作业\Pointer\两数交换\Debug\两数交换.exe
+  两数交换.vcxproj -> D:\文件\c语言作业\Pointer\两数交换\Debug\两数交换.pdb (Full PDB)

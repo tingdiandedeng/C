@@ -1,0 +1,9 @@
+﻿  源.cpp
+d:\文件\c语言作业\圆面积的计算\圆面积的计算\源.cpp(9): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\文件\c语言作业\圆面积的计算\圆面积的计算\源.cpp(10): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\文件\c语言作业\圆面积的计算\圆面积的计算\源.cpp(11): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\文件\c语言作业\圆面积的计算\圆面积的计算\源.cpp(12): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\文件\c语言作业\圆面积的计算\圆面积的计算\源.cpp(16): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\文件\c语言作业\圆面积的计算\圆面积的计算\源.cpp(17): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  圆面积的计算.vcxproj -> D:\文件\c语言作业\圆面积的计算\Debug\圆面积的计算.exe
+  圆面积的计算.vcxproj -> D:\文件\c语言作业\圆面积的计算\Debug\圆面积的计算.pdb (Full PDB)

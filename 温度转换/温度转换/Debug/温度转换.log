@@ -1,0 +1,4 @@
+﻿  源.cpp
+d:\文件\c语言作业\温度转换\温度转换\源.cpp(7): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  温度转换.vcxproj -> D:\文件\c语言作业\温度转换\Debug\温度转换.exe
+  温度转换.vcxproj -> D:\文件\c语言作业\温度转换\Debug\温度转换.pdb (Full PDB)
